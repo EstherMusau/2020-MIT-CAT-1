@@ -1,0 +1,109 @@
+.one{
+    background-color: lightgray;
+    min-height: 15vh;
+    display: flex;
+}
+.two_input{
+    background-color: darkorange;
+}
+.two{
+    background-color: gold;
+    min-height: 10vh;
+    display: flex;
+}
+
+.line{
+    border: 1px lightgray dotted;
+}
+.three{
+    background-color: lightgray;
+    min-height: 50vh;
+    width: 100%;
+    display: flex;
+
+}
+
+.one_h1{
+    font-size: 50px;
+    margin-left: 40%;
+}
+.three_1{
+    font-size: 13px;
+    display: flex;
+    height: 7cm;
+    width: 100%;
+
+}
+.three_2{
+    font-size: 13px;
+    display: flex;
+    height: 7cm;
+    width: 100%;
+}
+.aa{
+    height: 25vh;
+    width: 80%;
+}
+button{ background-color: gold;
+    color: black;
+    width: 100px;
+
+
+}
+.h_2{
+    color: brown;
+}
+.read_more{
+    margin-left: 80%;
+    background-color: brown;
+    color: white;
+}
+.view_more{
+    background-color: brown;
+    color: white;
+}
+.two_input{
+    margin-left: 40%;
+}
+.bb{
+    color: darkorange;
+}
+.bottom_footer{
+    background-color: gold;
+    color: saddlebrown;
+}
+.bottom_footer{
+    display: flex;
+    max-height: 60vh;
+    width: 100%;
+}
+.footer_1{
+    width: 4in;
+    padding-left: 15%;
+}
+.footer_2{
+    width: 3in;
+}
+.footer_3{
+    width: 3in;
+}
+.footer_4{
+    width: 3in;
+    margin-right: 15%;
+}
+.final_footer{
+    background-color: olive;
+    color: black;
+    width: 100%;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    height: 3cm;
+    margin-right: 15%;
+}
+.ext_left{
+    margin-left: 15%;
+}
+.ext_right{
+    margin-left: 65%;
+    padding-top: 1cm ;
+}
